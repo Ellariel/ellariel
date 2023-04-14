@@ -2,16 +2,16 @@
 This repo is divided into three parts:
 - Research in green computing and reinforcement learning:
 
-  ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
-  
   ⚡ [ln-path-prioritizing](https://github.com/Ellariel/ln-path-prioritizing)
+
+  ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
 - Research in environmental psychology:
 
   🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022)
   
-  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020)
-  
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis)
+    
+  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020)
 - Pet-projects and other things
   ...
 
