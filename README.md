@@ -1,6 +1,6 @@
 ### Hi there 👋 
 This repo is divided into three parts:
-- Research in green computing and reinforcement learning 
+- Research in green computing and reinforcement learning:
 
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
 - Research in environmental psychology:
