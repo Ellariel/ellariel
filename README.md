@@ -7,11 +7,11 @@ This repo is divided into three parts:
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
 - Research in environmental psychology:
 
-  🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022)
+  🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022) [📃](https://doi.org/10.1525/collabra.73637)
   
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis)
     
-  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020)
+  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020) [📃](https://doi.org/10.1016/j.spc.2021.05.008)
 - Pet-projects and other things
   ...
 
