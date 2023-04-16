@@ -13,6 +13,8 @@ This repo is divided into three parts:
     
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis)
 - Pet-projects, utils and other things
+  📄 [meta_utils](https://github.com/Ellariel/meta_utils)
+  
   ...
 
 
