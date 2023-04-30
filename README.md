@@ -2,6 +2,8 @@
 This repo is divided into three parts:
 - Research in green computing and reinforcement learning:
 
+  ⚡ [bc-broadcast-protocol](https://github.com/Ellariel/bc-broadcast-protocol)
+
   ⚡ [ln-path-prioritizing](https://github.com/Ellariel/ln-path-prioritizing)
 
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
