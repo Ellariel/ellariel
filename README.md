@@ -14,7 +14,7 @@ This repo is divided into three parts:
   🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020) [👓📃](https://doi.org/10.1016/j.spc.2021.05.008)
     
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis)
-- Pet-projects, utils and other things
+- Pet-projects, utils and other things:
 
   📄 [meta_tools](https://github.com/Ellariel/meta_tools)
   
