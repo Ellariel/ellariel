@@ -2,11 +2,14 @@
 This repo is divided into three parts:
 - Research in green computing and reinforcement learning:
 
+  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)
+  
   ⚡ [bc-broadcast-protocol](https://github.com/Ellariel/bc-broadcast-protocol)
 
   ⚡ [ln-path-prioritizing](https://github.com/Ellariel/ln-path-prioritizing)
 
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
+  
 - Research in environmental psychology:
 
   🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022) [👓📃](https://doi.org/10.1525/collabra.73637)
