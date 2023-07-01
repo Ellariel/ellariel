@@ -1,4 +1,6 @@
 ### Hi there 👋 
+You can check out my Computer Science [résumé](https://ellariel.github.io/cv-cs/) or Social Science [résumé](https://ellariel.github.io/cv-ss/)
+
 This repo is divided into three parts:
 - Research in green computing and reinforcement learning:
 
