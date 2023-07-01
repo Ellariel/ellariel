@@ -1,7 +1,7 @@
 ### Hi there 👋 
 You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* or *[Social Science CV](https://ellariel.github.io/cv-ss/)*
 
-This repo is divided into three parts:
+This repo consists of:
 - Research in green computing and reinforcement learning:
 
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)
