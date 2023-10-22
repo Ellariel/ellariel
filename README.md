@@ -6,11 +6,9 @@ This repo consists of:
 
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)
   
-  ⚡ [bc-broadcast-protocol](https://github.com/Ellariel/bc-broadcast-protocol)
-
-  ⚡ [ln-path-prioritizing](https://github.com/Ellariel/ln-path-prioritizing)
-
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
+  
+  ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol)
   
 - Research in environmental psychology:
 
@@ -19,6 +17,7 @@ This repo consists of:
   🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020) [👓📃](https://doi.org/10.1016/j.spc.2021.05.008)
     
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis)
+  
 - Pet-projects, utils and other things:
 
   📄 [meta_tools](https://github.com/Ellariel/meta_tools)
