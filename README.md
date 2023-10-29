@@ -20,7 +20,9 @@ This repo consists of:
   
 - Pet-projects, utils and other things:
 
-  📄 [meta_tools](https://github.com/Ellariel/meta_tools)
+  📄 [metatools](https://github.com/Ellariel/metatools)
+  
+  ✨ [pvutils](https://github.com/Ellariel/pvutils)
   
   ...
 
