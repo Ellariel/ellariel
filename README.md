@@ -4,7 +4,7 @@ You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* 
 This repo consists of:
 - Research in green computing and reinforcement learning:
 
-  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)
+  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis) [👓📃](https://doi.org/10.1016/j.comnet.2024.110297)
   
   ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization)
   
