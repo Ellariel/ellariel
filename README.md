@@ -4,7 +4,7 @@ You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* 
 This repo consists of:
 - Research in green computing and reinforcement learning:
 
-  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis) [👓📃](https://doi.org/10.1016/j.comnet.2024.110297)
+  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1016/j.comnet.2024.110297)
   
   ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization)
   
@@ -14,13 +14,24 @@ This repo consists of:
   
 - Research in environmental psychology:
 
-  🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022) [👓📃](https://doi.org/10.1525/collabra.73637)
+  🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1525/collabra.73637)
     
-  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020) [👓📃](https://doi.org/10.1016/j.spc.2021.05.008)
+  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1016/j.spc.2021.05.008)
 <!--
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis) -->
 
-- Pet-projects, utils and other things:
+My meaningful contributions to other projects:
+- Mosaik - a flexible co-simulation framework:
+
+  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis)
+  
+  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/internal/mosaik-emissions)
+  
+- The Hannah Arendt Research Center:
+
+  📄 [rostrud_pipeline](https://github.com/tha-rc/rostrud_pipeline)
+  
+Pet-projects, utils and other things:
 
   📄 [metatools](https://github.com/Ellariel/metatools)
   
