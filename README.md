@@ -25,7 +25,7 @@ My meaningful contributions to other projects:
 
   ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis)
   
-  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/internal/mosaik-emissions)
+  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/components/energy/mosaik-emissions)
   
 - The Hannah Arendt Research Center:
 
