@@ -9,8 +9,8 @@ This repo consists of:
   ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization)
   
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
-  
-  ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol)
+<!--  
+  ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol) -->
   
 - Research in environmental psychology:
 
