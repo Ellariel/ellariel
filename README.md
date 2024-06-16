@@ -2,7 +2,7 @@
 You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* or *[Social Science CV](https://ellariel.github.io/cv-ss/)*
 
 This repo consists of:
-- Research in green computing and reinforcement learning:
+- Research in green computing, networks and reinforcement learning:
 
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1016/j.comnet.2024.110297)
   
