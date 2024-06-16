@@ -12,7 +12,7 @@ This repo consists of:
 <!--  
   ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol) -->
   
-- Research in environmental psychology:
+- Research in social science and environmental psychology:
 
   🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1525/collabra.73637)
     
