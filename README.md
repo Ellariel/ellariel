@@ -2,7 +2,7 @@
 You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* or *[Social Science CV](https://ellariel.github.io/cv-ss/)*
 
 This repo consists of:
-- Research in green computing, networks and reinforcement learning:
+- Recent research on green computing, networks and reinforcement learning:
 
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1016/j.comnet.2024.110297)
   
@@ -12,7 +12,7 @@ This repo consists of:
   
   ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.48550/arXiv.2407.15616)
   
-- Research in social science and environmental psychology:
+- Recent research on social science and environmental psychology:
 
   🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1525/collabra.73637)
     
