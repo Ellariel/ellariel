@@ -21,11 +21,15 @@ This repo consists of:
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis) -->
 
 My meaningful contributions to other projects:
-- *mosaik* - a flexible co-simulation framework:
-
-  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis)
+- [*mosaik*](https://mosaik.offis.de/) - a flexible co-simulation framework:
   
   ⚡ [mosaik-emissions](https://gitlab.com/mosaik/components/energy/mosaik-emissions)
+  
+  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis)
+
+- [*hyBit*](https://hybit.org/en/) project:
+  
+  🌱 [MASSCA](https://gitlab.com/hybit1/hyBit-cell/-/tree/main/mas)
   
 - The Hannah Arendt Research Center:
 
