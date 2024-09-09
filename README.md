@@ -29,7 +29,7 @@ My meaningful contributions to other projects:
 
 - [*hyBit*](https://hybit.org/en/) project:
   
-  🌱 [MASSCA](https://gitlab.com/hybit1/hyBit-cell/-/tree/main/mas)
+  🌱 [MASSCA](https://gitlab.com/hybit1/massca)
   
 - The Hannah Arendt Research Center:
 
