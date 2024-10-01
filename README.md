@@ -4,19 +4,19 @@ You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* 
 This repo consists of:
 - Recent research on green computing, networks and reinforcement learning:
 
-  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1016/j.comnet.2024.110297)
+  ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis) & 📃 [paper](https://doi.org/10.1016/j.comnet.2024.110297)
   
   ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization)
   
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
   
-  ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.48550/arXiv.2407.15616)
+  ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol) & 📃 [paper](https://doi.org/10.48550/arXiv.2407.15616)
   
 - Recent research on social science and environmental psychology:
 
-  🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1525/collabra.73637)
+  🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022) & 📃 [paper](https://doi.org/10.1525/collabra.73637)
     
-  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020)&nbsp;&nbsp;&nbsp;[👓📃](https://doi.org/10.1016/j.spc.2021.05.008)
+  🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020) & 📃 [paper](https://doi.org/10.1016/j.spc.2021.05.008)
 <!--
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis) -->
 
