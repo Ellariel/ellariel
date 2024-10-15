@@ -21,15 +21,15 @@ This repo consists of:
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis) -->
 
 My meaningful contributions to other projects:
-- [*mosaik*](https://mosaik.offis.de/) - a flexible co-simulation framework:
+- [*mosaik*](https://mosaik.offis.de/) ~ a flexible co-simulation framework:
   
-  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/components/energy/mosaik-emissions)
+  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/components/energy/mosaik-emissions) ~ Emission calculation for a *mosaik* co-simulation scenario
   
-  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis)
+  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis) ~ PVGIS based photovoltaic system simulator
 
 - [*hyBit*](https://hybit.org/en/) project:
   
-  🌱 [MASSCA](https://gitlab.com/hybit1/massca)
+  🌱 [MASSCA](https://gitlab.com/hybit1/massca) ~ Scalable multi-agent system framework for smart power cell co-simulation
   
 - The Hannah Arendt Research Center:
 
@@ -37,9 +37,9 @@ My meaningful contributions to other projects:
   
 Pet-projects, utils and other things:
 
-  📄 [metatools](https://github.com/Ellariel/metatools)
+  📄 [metatools](https://github.com/Ellariel/metatools) ~ Meta-analysis and Reporting tools
   
-  🔭 [imltools](https://github.com/Ellariel/imltools)
+  🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning Toolbox
   
   ✨ [pvutils](https://github.com/Ellariel/pvutils)
   
