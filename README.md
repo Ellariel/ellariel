@@ -39,7 +39,7 @@ Pet-projects, utils and other things:
 
   📄 [metatools](https://github.com/Ellariel/metatools) ~ Meta-analysis and Reporting tools
   
-  🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning Toolbox
+  🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning toolbox
   
   ✨ [pvutils](https://github.com/Ellariel/pvutils)
   
