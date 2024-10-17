@@ -33,7 +33,7 @@ My meaningful contributions to other projects:
   
 - The Hannah Arendt Research Center:
 
-  📄 [rostrud_pipeline](https://github.com/tha-rc/rostrud_pipeline) & 💾 [dataset](https://doi.org/10.5281/zenodo.10913325)
+  📄 [rostrud_pipeline](https://github.com/tha-rc/rostrud_pipeline) & 💾 [dataset](https://doi.org/10.5281/zenodo.10913325) & 📃 [paper](https://doi.org/10.1163/24523666-bja10046)
   
 Pet-projects, utils and other things:
 
