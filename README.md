@@ -15,9 +15,9 @@ This repo consists of:
 - Recent research on social science and environmental psychology:
 
   🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022) & 📃 [paper](https://doi.org/10.1525/collabra.73637)
-    
+<!--    
   🌱 [research-eco-2020](https://github.com/Ellariel/research-eco-2020) & 📃 [paper](https://doi.org/10.1016/j.spc.2021.05.008)
-<!--
+
   🌱 [research-eco-2020-posthoc-analysis](https://github.com/Ellariel/research-eco-2020-posthoc-analysis) -->
 
 My meaningful contributions to other projects:
