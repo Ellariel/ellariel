@@ -23,13 +23,13 @@ This repo consists of:
 My meaningful contributions to other projects:
 - [*mosaik*](https://mosaik.offis.de/) ~ a flexible co-simulation framework:
   
-  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/components/energy/mosaik-emissions) ~ Emission calculation for a *mosaik* co-simulation scenario
+  ⚡ [mosaik-emissions](https://gitlab.com/mosaik/components/energy/mosaik-emissions) & 📃 [paper](https://doi.org/10.5281/zenodo.13984401)
   
-  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis) ~ PVGIS based photovoltaic system simulator
+  ⚡ [mosaik-pvgis](https://gitlab.com/mosaik/components/energy/mosaik-pvgis)
 
 - [*hyBit*](https://hybit.org/en/) project:
   
-  🌱 [MASSCA](https://gitlab.com/hybit1/massca) ~ Scalable multi-agent system framework for smart power cell co-simulation
+  🌱 [MASSCA](https://gitlab.com/hybit1/massca) & 📃 [paper](https://doi.org/10.5281/zenodo.14004357)
   
 - The Hannah Arendt Research Center:
 
