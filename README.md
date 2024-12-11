@@ -5,10 +5,10 @@ This repo consists of:
 - Recent research on green computing, networks and reinforcement learning:
 
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis) & 📃 [paper](https://doi.org/10.1016/j.comnet.2024.110297)
+    
+  ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning) & 📃 [paper](https://doi.org/10.1007/s00521-024-10588-2)
   
   ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization)
-  
-  ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning)
   
   ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol) & 📃 [paper](https://doi.org/10.48550/arXiv.2407.15616)
   
