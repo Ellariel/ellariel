@@ -37,7 +37,7 @@ My meaningful contributions to other projects:
   
 Pet-projects, utils and other things:
 
-  📄 [metatools](https://github.com/Ellariel/metatools) ~ Meta-analysis and Reporting tools
+  📄 [apatools](https://github.com/Ellariel/apatools) ~ Meta-analysis and Reporting tools
   
   🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning toolbox
   
