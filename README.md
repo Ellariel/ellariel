@@ -8,7 +8,7 @@ This repo consists of:
     
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning) & 📃 [paper](https://doi.org/10.1007/s00521-024-10588-2)
   
-  ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization)
+  ⚡ [ln-dynamic-optimization](https://github.com/Ellariel/ln-dynamic-optimization) & 📃 [paper](https://doi.org/10.1016/j.engappai.2025.110225)
   
   ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol) & 📃 [paper](https://doi.org/10.48550/arXiv.2407.15616)
   
