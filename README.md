@@ -31,6 +31,8 @@ My meaningful contributions to other projects:
   
   🌱 [MASSCA](https://gitlab.com/hybit1/massca) & 📃 [paper](https://doi.org/10.5281/zenodo.14004357)
   
+  🌱 [hyBit-repo](https://gitlab.com/hybit1/hybit-repo) & 🔭 [zenodo](https://doi.org/10.5281/zenodo.15052032)
+  
 - The Hannah Arendt Research Center:
 
   📄 [rostrud_pipeline](https://github.com/tha-rc/rostrud_pipeline) & 💾 [dataset](https://doi.org/10.5281/zenodo.10913325) & 📃 [paper](https://doi.org/10.1163/24523666-bja10046)
