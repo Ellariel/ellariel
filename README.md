@@ -1,8 +1,9 @@
 ### Hi there 👋 
-You can check out my *[Computer Science CV](https://ellariel.github.io/cv-cs/)* or *[Social Science CV](https://ellariel.github.io/cv-ss/)*
 
-This repo consists of:
-- Recent research on green computing, networks and reinforcement learning:
+You’re welcome to explore my *[Computer Science and Engineering CV](https://ellariel.github.io/cv-cs/)* or *[Social Science CV](https://ellariel.github.io/cv-ss/)*.
+
+This repo contains:
+- Selected research on networks and green computing:
 
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis) & 📃 [paper](https://doi.org/10.1016/j.comnet.2024.110297)
     
@@ -12,7 +13,7 @@ This repo consists of:
   
   ⚡ [eth-broadcast-protocol](https://github.com/Ellariel/eth-broadcast-protocol) & 📃 [paper](https://doi.org/10.48550/arXiv.2407.15616)
   
-- Recent research on social science and environmental psychology:
+- Recent research on social and environmental science:
 
   🌱 [research-eco-2022](https://github.com/Ellariel/research-eco-2022) & 📃 [paper](https://doi.org/10.1525/collabra.73637)
 <!--    
@@ -43,13 +44,13 @@ Pet-projects, utils and other things:
   
   🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning toolbox
   
-  ✨ [pvutils](https://github.com/Ellariel/pvutils)
-  
   ...
 
 
 
 <!--
+  
+  ✨ [pvutils](https://github.com/Ellariel/pvutils)
 **Ellariel/ellariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
