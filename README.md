@@ -5,6 +5,8 @@ You’re welcome to explore my *[Computer Science and Engineering CV](https://el
 This repo contains:
 - Selected research on networks and green computing:
 
+  ⚡ [ln-systematic-literature-review](https://github.com/Ellariel/ln-systematic-literature-review) & 📃 [paper](https://doi.org/10.21203/rs.3.rs-7705514/v1)
+
   ⚡ [ln-topology-analysis](https://github.com/Ellariel/ln-topology-analysis) & 📃 [paper](https://doi.org/10.1016/j.comnet.2024.110297)
     
   ⚡ [ln-one-shot-path-planning](https://github.com/Ellariel/ln-one-shot-path-planning) & 📃 [paper](https://doi.org/10.1007/s00521-024-10588-2)
