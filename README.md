@@ -2,7 +2,13 @@
 
 You’re welcome to explore my *[Computer Science and Engineering CV](https://ellariel.github.io/cv-cs/)* or *[Social Science CV](https://ellariel.github.io/cv-ss/)*.
 
-This repo contains:
+Pet-projects, utils and other things:
+
+  📄 [apatools](https://github.com/Ellariel/apatools) ~ Meta-analysis and Reporting tools
+  
+  🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning toolbox
+  
+<!-- This repo contains:
 - Selected research on networks and green computing:
 
   ⚡ [ln-systematic-literature-review](https://github.com/Ellariel/ln-systematic-literature-review) & 📃 [paper](https://doi.org/10.21203/rs.3.rs-7705514/v1)
@@ -41,12 +47,6 @@ My meaningful contributions to other projects:
 - The Hannah Arendt Research Center:
 
   📄 [rostrud_pipeline](https://github.com/tha-rc/rostrud_pipeline) & 💾 [dataset](https://doi.org/10.5281/zenodo.10913325) & 📃 [paper](https://doi.org/10.1163/24523666-bja10046)
-  
-Pet-projects, utils and other things:
-
-  📄 [apatools](https://github.com/Ellariel/apatools) ~ Meta-analysis and Reporting tools
-  
-  🔭 [imltools](https://github.com/Ellariel/imltools) ~ Interpretable Machine Learning toolbox
   
   ...
 
